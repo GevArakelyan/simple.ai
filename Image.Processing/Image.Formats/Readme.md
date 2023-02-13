@@ -1,7 +1,6 @@
 ## PNG format (Portable Network Graphics)
 
-PNG is short for Portable Network Graphic, a type of raster image file. It's particularly popular file type with web designers because
-it can handle graphics with transparent or semi-transparent backgrounds. 
+PNG is a type of raster image file. It's particularly popular file type with web designers because it can handle graphics with transparent or semi-transparent backgrounds. 
 
 **The file format isn't patented, so you can open a PNG using any image editing software without the need for licensing.**
 
